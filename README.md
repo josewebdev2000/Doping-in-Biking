@@ -1,6 +1,6 @@
 # Doping in Professional Biking
 <div align="center">
-    <img src="doping-biking.jpg" alt="Doping in Biking Illustration" width="700">
+    <img src="doping-biking.png" alt="Doping in Biking Illustration" width="700">
 </div>
 
 ## Overview
