@@ -1,0 +1,80 @@
+:root 
+{
+    --navyBlue: #0A2463;
+    --blue: #3E92CC;
+    --white: #FFFAFF;
+    --red: #D8315B;
+    --black: #1E1B18;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family:'Times New Roman', Times, serif;
+    background-color: var(--navyBlue);
+}
+
+main
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container
+{
+    width: 90%;
+    height: 90%;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 2px 2px 20px;
+}
+
+.title-container
+{
+    height: 200px;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+#icon
+{
+    font-size: 5rem;
+}
+
+.overlay 
+{
+    position: absolute;
+    background: var(--white);
+    pointer-events: none;
+}
+
+
+div.tooltip {
+    position: absolute;
+
+    padding: 10px;
+    font: 12px sans-serif;
+    background: var(--blue);
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+  
+
+#vis-container
+{
+    height: 100%;
+}
