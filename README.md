@@ -6,7 +6,7 @@
 ## Overview
 
 <div>
-    <p>This project is my personal solution of <a href="https://www.freecodecamp.org/" target="_blank">Freecodecamp's</a> second <a href="https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart" target="_blank">Data Visualization Challenge</a>.</p>
+    <p>This project is my personal solution of <a href="https://www.freecodecamp.org/" target="_blank">Freecodecamp's</a> second <a href="https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph" target="_blank">Data Visualization Challenge</a>.</p>
     <p>This challenge required to display a scatter plot about doping allegations in professional biking competitions between 1994 and 2016.</p>
 </div>
 
